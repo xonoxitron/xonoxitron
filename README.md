@@ -2,13 +2,6 @@
 
 ###### BRIDGING THE GAP BETWEEN PHYSICAL REALITIES AND DIGITAL WORLDS
 
-
-#### 💻 About me 🏴‍☠️
-
-I always loved to disassemble stuff so I started from toys and then I switched to softwares and applications later.
-
-I am exactly what I wanted to be when I was a child.
-
 <!--
 **xonoxitron/xonoxitron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
