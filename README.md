@@ -3,7 +3,7 @@
 ###### BRIDGING THE GAP BETWEEN PHYSICAL REALITIES AND DIGITAL WORLDS
 
 
-# 💻 About me 🏴‍☠️
+### 💻 About me 🏴‍☠️
 
 I always loved to disassemble stuff so I started from toys and then I switched to softwares and applications later.
 
