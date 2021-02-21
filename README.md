@@ -1,4 +1,10 @@
 <p align="center">
+  <b>SENIOR SOFTWARE ENGINEER</b>
+  <br>
+  BRIDGING THE GAP BETWEEN PHYSICAL REALITIES AND DIGITAL WORLDS
+</p>
+
+<p align="center">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="320">
 </p>
 
@@ -15,8 +21,3 @@
 </p>
 
 <br>
-
-<p align="center">
-  <b>SENIOR SOFTWARE ENGINEER</b>
-BRIDGING THE GAP BETWEEN PHYSICAL REALITIES AND DIGITAL WORLDS
-</p>
