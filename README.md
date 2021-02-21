@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/xonoxitron/xonoxitron/blob/master/coding.gif" width="320">
+  <img src="https://github.com/xonoxitron/xonoxitron/blob/main/coding.gif" width="320">
 </p>
 
 <p align="center">
