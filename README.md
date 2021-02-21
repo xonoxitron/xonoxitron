@@ -10,13 +10,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matteopisani" target="_blank">
-    <img src="https://github.com/xonoxitron/xonoxitron/blob/main/linkedin-#0077B5.svg" alt="LinkedIn"/>
+    <img src="https://github.com/xonoxitron/xonoxitron/blob/main/linkedin.svg" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@matteo.pisani.91" target="_blank">
-    <img src="https://github.com/xonoxitron/xonoxitron/blob/main/medium-#12100E.svg" alt="Medium"/>
+    <img src="https://github.com/xonoxitron/xonoxitron/blob/main/medium.svg" alt="Medium"/>
   </a>
   <a href="https://twitter.com/MatteoPisani91" target="_blank">
-    <img src="https://github.com/xonoxitron/xonoxitron/blob/main/twitter-#1DA1F2.svg" alt="Twitter"/>
+    <img src="https://github.com/xonoxitron/xonoxitron/blob/main/twitter.svg" alt="Twitter"/>
   </a>
 </p>
 
