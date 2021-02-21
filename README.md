@@ -1,6 +1,8 @@
-<p align="center">
+<p align="center" style="font-size: 48px;">
   <b>SENIOR SOFTWARE ENGINEER</b>
-  <br>
+</p>
+
+<p align="center">
   BRIDGING THE GAP BETWEEN PHYSICAL REALITIES AND DIGITAL WORLDS
 </p>
 
