@@ -1,4 +1,4 @@
-<p align="center" style="font-size:4em;">
+<p align="center" style="font-size:8em;">
   <b>SENIOR SOFTWARE ENGINEER</b>
 </p>
 
