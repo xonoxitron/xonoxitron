@@ -1,5 +1,5 @@
 <p align="center">
-  <b style="font-size:8em;">SENIOR SOFTWARE ENGINEER</b>
+  <b>SENIOR SOFTWARE ENGINEER</b>
 </p>
 
 <p align="center">
