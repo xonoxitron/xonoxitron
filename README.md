@@ -1,8 +1,7 @@
-<p align="center">
-  <span style="font-size:4em;">SENIOR SOFTWARE ENGINEER</span>
-</p>
 
 <p align="center">
+  <b>SENIOR SOFTWARE ENGINEER</b>
+  <br>
   BRIDGING THE GAP BETWEEN PHYSICAL REALITIES AND DIGITAL WORLDS
 </p>
 
@@ -21,5 +20,3 @@
     <img src="https://github.com/xonoxitron/xonoxitron/blob/main/twitter.svg" alt="Twitter"/>
   </a>
 </p>
-
-<br>
