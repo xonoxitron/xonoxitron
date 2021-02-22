@@ -1,6 +1,6 @@
 
-<h2 align="center">SENIOR SOFTWARE ENGINEER</h2>
-<h6 align="center">BRIDGING THE GAP BETWEEN PHYSICAL REALITIES AND DIGITAL WORLDS</h6>
+<h3 align="center">Senior Software Engineer</h3>
+<h5 align="center">BRIDGING THE GAP BETWEEN PHYSICAL REALITIES AND DIGITAL WORLDS</h5>
 
 <p align="center">
   <img src="https://github.com/xonoxitron/xonoxitron/blob/main/coding.gif" width="310">
