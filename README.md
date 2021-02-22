@@ -1,5 +1,5 @@
 
-<h2 align="center">Senior Software Engineer</h2>
+<h2 align="center">SENIOR SOFTWARE ENGINEER</h2>
 <h6 align="center">BRIDGING THE GAP BETWEEN PHYSICAL REALITIES AND DIGITAL WORLDS</h6>
 
 <p align="center">
