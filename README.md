@@ -1,16 +1,13 @@
-### Hi there 👋
+# 🖖 Hello.
 
-<!--
-**xonoxitron/xonoxitron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Strong minded, creative, curious and inspired.
+<br>
+🏴‍☠️ Hacking attitude with heavy disposition towards Reverse-Engineering.
+<br>
+🏎️ Fast learner.
+<br>
+🚀 Performance obsessed.
+<br>
+🔧 Excellent problem-solver.
+<br>
+🌎 Always ready to adapt to new environments.
